@@ -1,6 +1,6 @@
+raw_data/
 venv/
-*.csv
-kaggle.json
 .kaggle/
+kaggle.json
 __pycache__/
 *.pyc
